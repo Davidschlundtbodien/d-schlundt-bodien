@@ -16,6 +16,10 @@ a {
   margin: 0 auto;
 }
 
+h1 {
+  text-align: center;
+}
+
 nav {
   margin: 10px auto 80px;
   padding: 10px 0;
